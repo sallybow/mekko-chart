@@ -1,0 +1,13 @@
+rect {
+  stroke: #000;
+  fill: none;
+}
+
+svg {
+  shape-rendering: crispEdges;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+}

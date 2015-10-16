@@ -1,0 +1,7 @@
+{
+	"name" : "Mekko Chart",
+	"description" : "A Mekko Chart, similar to a tree map. Showing hierarchies over two dimensions and one measure.",
+	"type" : "visualization",
+	"version": "0.2",
+	"author": "Alexander Karlsson - Demo and Best Practices - akl@qlik.com"
+}

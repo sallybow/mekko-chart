@@ -1,4 +1,4 @@
-define(['jquery', 'qlik','./mekko-properties', './d3.min', './colorbrewer', 'css!./style.css'], function($, qlik, properties) {
+define(['jquery', 'qlik','./mekko-properties', './d3.min', './colorbrewer', 'css!./style.css'], function($, qlik, properties, d3) {
 	return {
 		type: "visualization",
 		definition: properties,

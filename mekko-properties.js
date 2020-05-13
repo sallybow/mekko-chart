@@ -23,6 +23,7 @@ define([], function () {
 				uses: "colors"
 			}
 		}
+		}
 	};
 
 });

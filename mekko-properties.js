@@ -18,6 +18,9 @@ define([], function () {
 			},
 			settings: {
 				uses: "settings"
+			},
+			settings: {
+				uses: "colors"
 			}
 		}
 	};
